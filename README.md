@@ -5,6 +5,9 @@ Meu nome é <strong>Mateus Matos</strong>, tenho 23 anos e sou <i>apaixonado por
 <h5>Estou a procura de uma oportunidade de estágio! <3</h5>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matleal&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matleal&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
